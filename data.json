@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "name": "John Michael Reintegrado",
+    "bio": "Hi, I am John Michael Reintegrado, a BSIT student specializing in Web Development. I enjoy building interactive and user-friendly web projects that bring ideas to life.",
+    "github": "https://github.com/johnmichaelreintegrado",
+    "image": "images/download.jpg"
+  },
+  "activities": [
+    {
+      "category": "Frontend Development",
+      "tasks": [
+        "Designing and implementing responsive web pages using HTML, CSS, and JavaScript",
+        "Creating interactive UI components like buttons, forms, sliders, and modals",
+        "Using CSS frameworks (Tailwind, Bootstrap) for faster styling",
+        "Implementing client-side validation for forms",
+        "Animating elements using CSS or JavaScript for better user experience"
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "tasks": [
+        "Handling data storage using JSON files or databases (MySQL, MongoDB)",
+        "Creating APIs to send and receive data between frontend and backend",
+        "Processing form submissions and user input",
+        "Implementing authentication for users (login/register)",
+        "Managing server-side logic with Node.js, PHP, or Python"
+      ]
+    },
+    {
+      "category": "Web Project Management",
+      "tasks": [
+        "Planning the website structure and layout",
+        "Creating mockups or wireframes using tools like Figma",
+        "Testing websites on different browsers and devices",
+        "Debugging errors and fixing broken layouts or functionalities",
+        "Maintaining and updating existing web projects"
+      ]
+    },
+    {
+      "category": "Learning & Experimentation",
+      "tasks": [
+        "Practicing JavaScript DOM manipulation for dynamic content",
+        "Learning frameworks like React, Vue.js, or Angular",
+        "Experimenting with APIs (weather, maps, social media)",
+        "Creating small projects like to-do lists, calculators, or portfolio websites",
+        "Understanding version control using Git and GitHub"
+      ]
+    }
+  ]
+}

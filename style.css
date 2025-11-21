@@ -1,0 +1,94 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.container{
+    width: 100%;
+    max-width: 2650px;
+    display: flex;
+    background-color: #f5f5f5;
+}
+.profile{
+    width: 20%;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #9fdde8;
+}
+.profile a{
+    margin-top: 50px;
+}
+.bio{
+    color: #f5f5f5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+.bio .name{
+    font-size: large;
+}
+.image{
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.activities{
+    width: 80%;
+    color: #f5f5f5;
+
+}
+.content{
+    width: 60%;
+    margin-left: 25%;
+    padding: 20px;
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.label{
+    position: fixed;
+    top: 0;
+}
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  width: 300px;
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #4a4a4a;
+}
+
+.card ul {
+  padding-left: 20px;
+}
+
+.card ul li {
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
