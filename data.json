@@ -3,7 +3,7 @@
     "name": "John Michael Reintegrado",
     "bio": "Hi, I am John Michael Reintegrado, a BSIT student specializing in Web Development. I enjoy building interactive and user-friendly web projects that bring ideas to life.",
     "github": "https://github.com/johnmichaelreintegrado",
-    "image": "images/download.jpg"
+    "image": "download.jpg"
   },
   "activities": [
     {
@@ -48,3 +48,4 @@
     }
   ]
 }
+
